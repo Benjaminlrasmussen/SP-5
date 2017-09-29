@@ -1,0 +1,36 @@
+## Network interfaces, IP-numbers and more ##
+
+1: 10.50.131.110
+2: Det er ethernet (lokale ip) adresser.
+3: Routeren.
+4: DHCP serveren er en protocol som kører på routeren som en del af tcp/ip
+og den sørger for at uddele ethernet adresser.
+5: 10.255.1.9
+6: En DNS server holder styr på hvilken ip-adresse der hører til et givent
+domænenavn.
+7: 10.250.1.1 og 10.250.1.2
+8: En MAC adresse er en unik "fysisk" adresse der er tildelt netkort fra
+fabrikken.
+9: 00-90-F5-D0-02-3A, 44-6D-57-FE-3A, 44-6D-57-7A-2C-B6
+10: LAN, Wireless og Bluetooth.
+11: LAN er til lokal netværk, Wireless er trådløst, bluetooth er en trådløs
+data overførsels service.
+12: 5.179.80.204, vi havde ikke alle den samme.
+
+## Networking ##
+1: 195.254.168.52
+2: 2008-12-15, Knord S/I
+3: Done
+4: 7
+5: 19
+6: 1 - trådløst netværk
+7: average = 12ms
+8: Google har servere rundt omkring på kloden.
+9: MySQL ville måske lytte på port 3306 da det er dens standardport.
+10: Done ved 'telnet joachimhhansen.tk 3306'
+
+## Domain Name Sytem ##
+1: ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com.
+2: Done
+3: Wait for the dns to refresh
+4: Done
