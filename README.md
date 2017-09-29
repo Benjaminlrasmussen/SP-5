@@ -1,5 +1,5 @@
 # SP-5
-Exercise 1: HTTP Excercises
-Exercise 2: Network day2.txt
-Exercise 3: Socket Exercises
-Exercise 4: Turnstile Server
+Exercise 1: HTTP Excercises \n
+Exercise 2: Network day2.txt \n
+Exercise 3: Socket Exercises \n
+Exercise 4: Turnstile Server \n
